@@ -1,0 +1,19 @@
+{
+  "name": "mean-stack",
+  "version": "1.0.0",
+  "description": "MEAN Stack Example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npke/mean-stack-example.git"
+  },
+  "author": "kenp - Ke Nguyen Phu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npke/mean-stack-example/issues"
+  },
+  "homepage": "https://github.com/npke/mean-stack-example#readme"
+}
