@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/npke/mean-stack-example/issues"
   },
-  "homepage": "https://github.com/npke/mean-stack-example#readme"
+  "homepage": "https://github.com/npke/mean-stack-example#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.2",
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "method-override": "^2.3.6",
+    "morgan": "^1.7.0"
+  }
 }
