@@ -1,0 +1,13 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/npke/mean-stack-example",
+  "authors": [
+    "Ke Nguyen Phu <kenguyen276@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.2"
+  }
+}
